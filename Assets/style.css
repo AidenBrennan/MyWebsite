@@ -4,14 +4,9 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 .header {
     padding: 5px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #000000;
+    font-family: 'Courier New', Courier, monospace;
     color: #20e20e;
     width: 100%;
     height: fit-content;
@@ -21,19 +16,13 @@ body {
 }
 
 .header h1 {
-    font-size: 48px;
+    font-size: 64px;
 }
 
 .header div {
-    padding-top: 5px;
-    margin-right: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-.header div ul {
-    list-style-type: disc;
-    color: white;
+    margin-right: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
 }
 
 .header div ul li {
@@ -109,6 +98,7 @@ body {
     opacity: 1;
     color: white;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .beach-landscape-wrap:hover .beach-landscape-description {
@@ -116,6 +106,7 @@ body {
     opacity: 1;
     color: white;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .dog-photo-wrap:hover .dog-photo-description {
@@ -123,6 +114,7 @@ body {
     opacity: 1;
     color: white;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .skills {
@@ -132,14 +124,14 @@ body {
     padding: 20px;
     width: 40%;
     height: 80%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #1f42dd;
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 .skills-content h3 {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-align: left;
     color: black;
 }
@@ -151,7 +143,7 @@ body {
 }
 
 .info-content h3 {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-align: left;
     color: black;
 }
@@ -163,9 +155,9 @@ body {
 }
 
 .qualifications h3 {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-align: left;
-    color: black;
+    color: 'black;
 }
 
 .qualifications ul {
@@ -176,7 +168,7 @@ body {
 
 .Contact-Me p {
     font-size: x-large;
-    text-decoration: black;
+    text-decoration: 'black;
     text-decoration: underline;
 }
 
