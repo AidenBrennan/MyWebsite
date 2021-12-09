@@ -169,7 +169,7 @@ body {
 }
 
 .qualifications ul {
-    columns: 2;
+    columns:2;
     text-align: left;
     list-style: circle
 }
@@ -182,8 +182,8 @@ body {
 
 .Contact-Me ul {
     position:relative;
-    right: -20px;
-    color: #20e20e;
-    text-align: left;
-    margin: 5px;
+    right:-20px;
+    color:#20e20e;
+    text-align:left;
+    margin:5px;
 }
